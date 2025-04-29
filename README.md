@@ -1,8 +1,4 @@
-# Energy_Management_Scale_Analysis
-
 # Energy Management Scale Analysis using SPSS
-
-**Project Status:** Completed
 
 ## Overview
 
